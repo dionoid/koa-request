@@ -2,10 +2,7 @@
   "name": "koa-request",
   "description": "wrapper for request library ready to use in koa",
   "main": "./",
-  "author": {
-    "name": "Dion Olsthoorn",
-    "email": "dion.olsthoorn@gmail.com"
-  },
+  "author": "Dion Olsthoorn <dion.olsthoorn@gmail.com>",
   "version": "0.0.1",
   "repository": {
     "type": "git",
@@ -17,10 +14,9 @@
   "dependencies": {
     "request": "*"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/dionoid/koa-request/raw/master/LICENSE"
-    }
-  ]
+  "homepage": "https://github.com/dionoid/koa-request",
+  "directories": {
+    "example": "examples"
+  },
+  "license": "MIT"
 }

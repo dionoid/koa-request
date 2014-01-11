@@ -1,9 +1,9 @@
 {
   "name": "koa-request",
-  "description": "wrapper for request library ready to use in koa",
+  "description": "wrapper to request library ready to use in koa",
   "main": "./",
   "author": "Dion Olsthoorn <dion.olsthoorn@gmail.com>",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/dionoid/koa-request.git"

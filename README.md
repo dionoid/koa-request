@@ -2,7 +2,7 @@ koa-request
 ===========
 
 Very simple wrapper to the request library for use in koa.  
-Wraps the request lib as thunk-returning functions for use in kao's middleware generator-functions.
+Wraps the request lib as thunk-returning functions for use in koa's middleware generator-functions.
 
 
 To install simply run:
